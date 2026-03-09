@@ -1,0 +1,6 @@
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.Form1.resources
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Projects\KeyLogger\WindowsSecurity\obj\Debug\net9.0-windows\KeyLogger.csproj.CoreCompileInputs.cache

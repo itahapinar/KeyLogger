@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.Form1.resources
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\bin\Debug\net9.0-windows\WindowsSecurity.exe
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\bin\Debug\net9.0-windows\WindowsSecurity.deps.json
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\bin\Debug\net9.0-windows\WindowsSecurity.runtimeconfig.json
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\bin\Debug\net9.0-windows\WindowsSecurity.dll
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\bin\Debug\net9.0-windows\WindowsSecurity.pdb
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.dll
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\refint\WindowsSecurity.dll
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.pdb
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\WindowsSecurity.genruntimeconfig.cache
+C:\Users\Taha\Desktop\Projects\WindowsSecurity\WindowsSecurity\obj\Debug\net9.0-windows\ref\WindowsSecurity.dll
