@@ -1,4 +1,4 @@
-# 🛡️ WindowsSecurity
+# 🛡️ KEYLOGGER
 
 A **C# WinForms application** that demonstrates keyboard event tracking and automatic log delivery via email using SMTP.
 
